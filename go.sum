@@ -1,2 +1,6 @@
 github.com/hiroshinakasone/go_multi_mod_version_sample v0.0.1 h1:eeTMFDBe0ns5qc5saf39rblP8VkPDAs7px5X3DUeZr8=
 github.com/hiroshinakasone/go_multi_mod_version_sample v0.0.1/go.mod h1:yxuTTzABkBVVwGDRS7q1yhp1RIpxowJ2pABg4xpAYgg=
+github.com/hiroshinakasone/go_mvs_sample/module1 v0.0.0-20230729101236-86fca38faf6d h1:oxckrwv8jOISTdW6/6GHlNT7w2/maaZRyltvXr9DhwE=
+github.com/hiroshinakasone/go_mvs_sample/module1 v0.0.0-20230729101236-86fca38faf6d/go.mod h1:i6ZA5iQvnHwUb7Zmof0ixzqYN1wG2jhyj7Ihms7FXo4=
+github.com/hiroshinakasone/go_mvs_sample/module2 v0.0.0-20230729101236-86fca38faf6d h1:WOJ1aUiSTSvB4v+YYDvuFQn6m5VmQBko/6P0uljIcbg=
+github.com/hiroshinakasone/go_mvs_sample/module2 v0.0.0-20230729101236-86fca38faf6d/go.mod h1:ldJkIhqRplAVMzKe1WDCvMKMubyi+9iEKCbjPfQw+JQ=
